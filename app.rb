@@ -2,7 +2,7 @@ require 'sinatra'
 
 configure do
     @@nouns = File.open('nouns.txt').map{|line|
-        line.strip
+        line.strip.downcase
     }
 
 end
