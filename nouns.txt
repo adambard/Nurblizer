@@ -21609,11 +21609,9 @@ species
 genus
 brand
 genre
-like
 manner
 model
 stripe
-like
 rule
 restriction
 narrowness
@@ -27578,7 +27576,6 @@ Anglophilia
 philhellenism
 philogyny
 worship
-dislike
 disinclination
 Anglophobia
 unfriendliness
@@ -48853,7 +48850,6 @@ sextant
 steradian
 section
 acre
-are
 hectare
 arpent
 barn
