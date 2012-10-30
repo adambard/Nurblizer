@@ -1,0 +1,13 @@
+%h1 Nurblizer
+
+%form{:action => '/nurble', :method => 'post'}
+  %fieldset
+    %ul
+      %li
+        %label Text to nurblize:
+        %textarea{:name => 'text'}
+      %li
+        %input{:type=>'submit', :value=>'Nurblize Away!'}
+
+%p
+  %a{:href => "http://www.smbc-comics.com/?id=2779"} wtf?
